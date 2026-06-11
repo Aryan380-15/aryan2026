@@ -1,5 +1,4 @@
 from math import *
-from math import *
 
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))

@@ -15,3 +15,5 @@ elif 45 <= per < 60:
     print("Your pass with 2div ")
 else:
     print("Your pass with 1div ")
+
+   
