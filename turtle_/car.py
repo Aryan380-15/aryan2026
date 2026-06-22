@@ -1,7 +1,7 @@
 from turtle import *
 
 t=Turtle()
-t.speed(1)
+t.speed(0)
 t.penup()
 t.goto(-347,-200)
 t.pendown()
@@ -82,6 +82,11 @@ t.goto(-40,43)
 t.pendown()
 t.left(90)
 t.fd(243)
+t.bk(220)
+t.right(90)
+t.fd(155)
+t.left(70)
+
 
 
 

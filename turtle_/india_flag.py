@@ -1,7 +1,7 @@
 from turtle import *
 
 t=Turtle()
-t.speed(1)
+t.speed(6)
 t.penup()
 t.fd(-200)
 t.left(90)
